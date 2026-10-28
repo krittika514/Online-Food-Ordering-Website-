@@ -1,0 +1,6 @@
+<h1>Online Food Ordering</h1>
+
+<h3>Pizza - ₹150</h3>
+<button onclick="addFood()">Add to Cart</button>
+
+<h3 id="total">Total: ₹0</h3>
