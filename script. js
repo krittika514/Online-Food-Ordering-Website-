@@ -1,0 +1,8 @@
+let total = 0;
+
+function addFood() {
+    total = total + 150;
+
+    document.getElementById("total").textContent =
+        "Total: ₹" + total;
+}
